@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Kshitij kamble<br>I am a passionate web developer with expertise in the MERN stack and a solid foundation in C++ and data structures & algorithms (DSA). I thrive on exploring new technologies and tackling challenging projects.<br><br>🚀 Skills<br>Web Development: MERN Stack (MongoDB, Express.js, React.js, Node.js)<br>Programming Languages: JavaScript, C++<br>Data Structures & Algorithms: Proficient in C++ DSA<br>Other Technologies: Arduino, Tailwind CSS, HTML, CSS
+Hi there! 👋 I'm Kshitij Kamble<br>I am a passionate Web developer with expertise in the MERN stack and a solid foundation in C++ and Data structures & Algorithms (DSA). I thrive on exploring new technologies and tackling challenging projects.<br><br>🚀 Skills<br>Web Development: MERN Stack (MongoDB, Express.js, React.js, Node.js)<br>Programming Languages: JavaScript, C++<br>Data Structures & Algorithms: Proficient in C++ DSA<br>Other Technologies: Arduino, Tailwind CSS, HTML, CSS
 
 
 ## 🌐 Socials:
